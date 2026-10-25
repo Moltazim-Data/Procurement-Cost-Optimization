@@ -1,5 +1,8 @@
 # Procurement Cost Optimization
 
+
+> **Demo data notice:** Procurement history, supplier recommendations, benchmarks, and chart assets added for this repository are synthetic examples. They are not real supplier quotes or realized savings.
+
 Python-based procurement analytics for comparing supplier and item pricing, lead times, and defect rates.
 
 ## Project contents
