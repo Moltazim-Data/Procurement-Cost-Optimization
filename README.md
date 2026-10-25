@@ -18,3 +18,6 @@ python scripts/optimization_model.py
 ```
 
 **Scope note:** The current script summarizes supplier/item metrics; it does not implement a complete constrained optimization or validated savings simulation.
+
+## Analysis report
+See [reports/portfolio_report.md](reports/portfolio_report.md) for the report structure, business questions, interpretation caveats, and recommended next actions.
