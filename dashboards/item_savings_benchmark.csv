@@ -1,0 +1,13 @@
+item_id,item_name,current_unit_price,benchmark_unit_price,savings_per_unit_pct
+SKU001,Safety gloves,13.75,11.55,16.0
+SKU002,Fasteners,17.50,14.70,16.0
+SKU003,Printer paper,21.25,17.85,16.0
+SKU004,Cable ties,25.00,21.00,16.0
+SKU005,Cleaning supplies,28.75,24.15,16.0
+SKU006,Packaging,32.50,27.30,16.0
+SKU007,Safety gloves,36.25,30.45,16.0
+SKU008,Fasteners,40.00,33.60,16.0
+SKU009,Printer paper,43.75,36.75,16.0
+SKU010,Cable ties,47.50,39.90,16.0
+SKU011,Cleaning supplies,51.25,43.05,16.0
+SKU012,Packaging,55.00,46.20,16.0
