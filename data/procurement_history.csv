@@ -1,0 +1,121 @@
+purchase_id,item_id,item_name,supplier,quantity,unit_price,currency,purchase_date
+P0001,SKU002,Safety gloves,Apex Industrial,13,4.20,USD,2025-02-02
+P0002,SKU003,Fasteners,Metro Wholesale,16,5.90,USD,2025-03-03
+P0003,SKU004,Printer paper,Summit Partners,19,7.60,USD,2025-04-04
+P0004,SKU005,Cable ties,Northstar Supply,22,9.30,USD,2025-05-05
+P0005,SKU006,Cleaning supplies,Apex Industrial,25,11.00,USD,2025-06-06
+P0006,SKU007,Packaging,Metro Wholesale,28,12.70,USD,2025-07-07
+P0007,SKU008,Safety gloves,Summit Partners,31,14.40,USD,2025-08-08
+P0008,SKU009,Fasteners,Northstar Supply,34,16.10,USD,2025-09-09
+P0009,SKU010,Printer paper,Apex Industrial,37,17.80,USD,2025-10-10
+P0010,SKU011,Cable ties,Metro Wholesale,40,19.50,USD,2025-11-11
+P0011,SKU012,Cleaning supplies,Summit Partners,43,21.20,USD,2025-12-12
+P0012,SKU001,Packaging,Northstar Supply,46,22.90,USD,2025-01-13
+P0013,SKU002,Safety gloves,Apex Industrial,49,24.60,USD,2025-02-14
+P0014,SKU003,Fasteners,Metro Wholesale,52,26.30,USD,2025-03-15
+P0015,SKU004,Printer paper,Summit Partners,55,28.00,USD,2025-04-16
+P0016,SKU005,Cable ties,Northstar Supply,58,29.70,USD,2025-05-17
+P0017,SKU006,Cleaning supplies,Apex Industrial,61,31.40,USD,2025-06-18
+P0018,SKU007,Packaging,Metro Wholesale,64,33.10,USD,2025-07-19
+P0019,SKU008,Safety gloves,Summit Partners,67,34.80,USD,2025-08-20
+P0020,SKU009,Fasteners,Northstar Supply,70,36.50,USD,2025-09-21
+P0021,SKU010,Printer paper,Apex Industrial,73,38.20,USD,2025-10-22
+P0022,SKU011,Cable ties,Metro Wholesale,76,39.90,USD,2025-11-23
+P0023,SKU012,Cleaning supplies,Summit Partners,79,41.60,USD,2025-12-24
+P0024,SKU001,Packaging,Northstar Supply,82,43.30,USD,2025-01-25
+P0025,SKU002,Safety gloves,Apex Industrial,85,45.00,USD,2025-02-26
+P0026,SKU003,Fasteners,Metro Wholesale,88,46.70,USD,2025-03-27
+P0027,SKU004,Printer paper,Summit Partners,91,48.40,USD,2025-04-01
+P0028,SKU005,Cable ties,Northstar Supply,94,50.10,USD,2025-05-02
+P0029,SKU006,Cleaning supplies,Apex Industrial,97,51.80,USD,2025-06-03
+P0030,SKU007,Packaging,Metro Wholesale,100,53.50,USD,2025-07-04
+P0031,SKU008,Safety gloves,Summit Partners,103,55.20,USD,2025-08-05
+P0032,SKU009,Fasteners,Northstar Supply,106,56.90,USD,2025-09-06
+P0033,SKU010,Printer paper,Apex Industrial,109,58.60,USD,2025-10-07
+P0034,SKU011,Cable ties,Metro Wholesale,112,60.30,USD,2025-11-08
+P0035,SKU012,Cleaning supplies,Summit Partners,115,62.00,USD,2025-12-09
+P0036,SKU001,Packaging,Northstar Supply,118,63.70,USD,2025-01-10
+P0037,SKU002,Safety gloves,Apex Industrial,121,65.40,USD,2025-02-11
+P0038,SKU003,Fasteners,Metro Wholesale,124,67.10,USD,2025-03-12
+P0039,SKU004,Printer paper,Summit Partners,127,68.80,USD,2025-04-13
+P0040,SKU005,Cable ties,Northstar Supply,130,70.50,USD,2025-05-14
+P0041,SKU006,Cleaning supplies,Apex Industrial,133,72.20,USD,2025-06-15
+P0042,SKU007,Packaging,Metro Wholesale,136,73.90,USD,2025-07-16
+P0043,SKU008,Safety gloves,Summit Partners,139,75.60,USD,2025-08-17
+P0044,SKU009,Fasteners,Northstar Supply,142,77.30,USD,2025-09-18
+P0045,SKU010,Printer paper,Apex Industrial,145,79.00,USD,2025-10-19
+P0046,SKU011,Cable ties,Metro Wholesale,148,80.70,USD,2025-11-20
+P0047,SKU012,Cleaning supplies,Summit Partners,151,82.40,USD,2025-12-21
+P0048,SKU001,Packaging,Northstar Supply,154,84.10,USD,2025-01-22
+P0049,SKU002,Safety gloves,Apex Industrial,157,85.80,USD,2025-02-23
+P0050,SKU003,Fasteners,Metro Wholesale,160,87.50,USD,2025-03-24
+P0051,SKU004,Printer paper,Summit Partners,163,89.20,USD,2025-04-25
+P0052,SKU005,Cable ties,Northstar Supply,166,90.90,USD,2025-05-26
+P0053,SKU006,Cleaning supplies,Apex Industrial,169,2.60,USD,2025-06-27
+P0054,SKU007,Packaging,Metro Wholesale,172,4.30,USD,2025-07-01
+P0055,SKU008,Safety gloves,Summit Partners,175,6.00,USD,2025-08-02
+P0056,SKU009,Fasteners,Northstar Supply,178,7.70,USD,2025-09-03
+P0057,SKU010,Printer paper,Apex Industrial,181,9.40,USD,2025-10-04
+P0058,SKU011,Cable ties,Metro Wholesale,184,11.10,USD,2025-11-05
+P0059,SKU012,Cleaning supplies,Summit Partners,187,12.80,USD,2025-12-06
+P0060,SKU001,Packaging,Northstar Supply,190,14.50,USD,2025-01-07
+P0061,SKU002,Safety gloves,Apex Industrial,193,16.20,USD,2025-02-08
+P0062,SKU003,Fasteners,Metro Wholesale,196,17.90,USD,2025-03-09
+P0063,SKU004,Printer paper,Summit Partners,199,19.60,USD,2025-04-10
+P0064,SKU005,Cable ties,Northstar Supply,12,21.30,USD,2025-05-11
+P0065,SKU006,Cleaning supplies,Apex Industrial,15,23.00,USD,2025-06-12
+P0066,SKU007,Packaging,Metro Wholesale,18,24.70,USD,2025-07-13
+P0067,SKU008,Safety gloves,Summit Partners,21,26.40,USD,2025-08-14
+P0068,SKU009,Fasteners,Northstar Supply,24,28.10,USD,2025-09-15
+P0069,SKU010,Printer paper,Apex Industrial,27,29.80,USD,2025-10-16
+P0070,SKU011,Cable ties,Metro Wholesale,30,31.50,USD,2025-11-17
+P0071,SKU012,Cleaning supplies,Summit Partners,33,33.20,USD,2025-12-18
+P0072,SKU001,Packaging,Northstar Supply,36,34.90,USD,2025-01-19
+P0073,SKU002,Safety gloves,Apex Industrial,39,36.60,USD,2025-02-20
+P0074,SKU003,Fasteners,Metro Wholesale,42,38.30,USD,2025-03-21
+P0075,SKU004,Printer paper,Summit Partners,45,40.00,USD,2025-04-22
+P0076,SKU005,Cable ties,Northstar Supply,48,41.70,USD,2025-05-23
+P0077,SKU006,Cleaning supplies,Apex Industrial,51,43.40,USD,2025-06-24
+P0078,SKU007,Packaging,Metro Wholesale,54,45.10,USD,2025-07-25
+P0079,SKU008,Safety gloves,Summit Partners,57,46.80,USD,2025-08-26
+P0080,SKU009,Fasteners,Northstar Supply,60,48.50,USD,2025-09-27
+P0081,SKU010,Printer paper,Apex Industrial,63,50.20,USD,2025-10-01
+P0082,SKU011,Cable ties,Metro Wholesale,66,51.90,USD,2025-11-02
+P0083,SKU012,Cleaning supplies,Summit Partners,69,53.60,USD,2025-12-03
+P0084,SKU001,Packaging,Northstar Supply,72,55.30,USD,2025-01-04
+P0085,SKU002,Safety gloves,Apex Industrial,75,57.00,USD,2025-02-05
+P0086,SKU003,Fasteners,Metro Wholesale,78,58.70,USD,2025-03-06
+P0087,SKU004,Printer paper,Summit Partners,81,60.40,USD,2025-04-07
+P0088,SKU005,Cable ties,Northstar Supply,84,62.10,USD,2025-05-08
+P0089,SKU006,Cleaning supplies,Apex Industrial,87,63.80,USD,2025-06-09
+P0090,SKU007,Packaging,Metro Wholesale,90,65.50,USD,2025-07-10
+P0091,SKU008,Safety gloves,Summit Partners,93,67.20,USD,2025-08-11
+P0092,SKU009,Fasteners,Northstar Supply,96,68.90,USD,2025-09-12
+P0093,SKU010,Printer paper,Apex Industrial,99,70.60,USD,2025-10-13
+P0094,SKU011,Cable ties,Metro Wholesale,102,72.30,USD,2025-11-14
+P0095,SKU012,Cleaning supplies,Summit Partners,105,74.00,USD,2025-12-15
+P0096,SKU001,Packaging,Northstar Supply,108,75.70,USD,2025-01-16
+P0097,SKU002,Safety gloves,Apex Industrial,111,77.40,USD,2025-02-17
+P0098,SKU003,Fasteners,Metro Wholesale,114,79.10,USD,2025-03-18
+P0099,SKU004,Printer paper,Summit Partners,117,80.80,USD,2025-04-19
+P0100,SKU005,Cable ties,Northstar Supply,120,82.50,USD,2025-05-20
+P0101,SKU006,Cleaning supplies,Apex Industrial,123,84.20,USD,2025-06-21
+P0102,SKU007,Packaging,Metro Wholesale,126,85.90,USD,2025-07-22
+P0103,SKU008,Safety gloves,Summit Partners,129,87.60,USD,2025-08-23
+P0104,SKU009,Fasteners,Northstar Supply,132,89.30,USD,2025-09-24
+P0105,SKU010,Printer paper,Apex Industrial,135,91.00,USD,2025-10-25
+P0106,SKU011,Cable ties,Metro Wholesale,138,2.70,USD,2025-11-26
+P0107,SKU012,Cleaning supplies,Summit Partners,141,4.40,USD,2025-12-27
+P0108,SKU001,Packaging,Northstar Supply,144,6.10,USD,2025-01-01
+P0109,SKU002,Safety gloves,Apex Industrial,147,7.80,USD,2025-02-02
+P0110,SKU003,Fasteners,Metro Wholesale,150,9.50,USD,2025-03-03
+P0111,SKU004,Printer paper,Summit Partners,153,11.20,USD,2025-04-04
+P0112,SKU005,Cable ties,Northstar Supply,156,12.90,USD,2025-05-05
+P0113,SKU006,Cleaning supplies,Apex Industrial,159,14.60,USD,2025-06-06
+P0114,SKU007,Packaging,Metro Wholesale,162,16.30,USD,2025-07-07
+P0115,SKU008,Safety gloves,Summit Partners,165,18.00,USD,2025-08-08
+P0116,SKU009,Fasteners,Northstar Supply,168,19.70,USD,2025-09-09
+P0117,SKU010,Printer paper,Apex Industrial,171,21.40,USD,2025-10-10
+P0118,SKU011,Cable ties,Metro Wholesale,174,23.10,USD,2025-11-11
+P0119,SKU012,Cleaning supplies,Summit Partners,177,24.80,USD,2025-12-12
+P0120,SKU001,Packaging,Northstar Supply,180,26.50,USD,2025-01-13
